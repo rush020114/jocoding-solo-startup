@@ -1,0 +1,10 @@
+# AURA STYLE
+
+> 체형과 퍼스널 컬러를 기준으로 나에게 맞는 스타일링 정보를 제공하는 AI 퍼스널 스타일링 서비스입니다.
+
+## 주요 페이지
+- [체형·퍼스널 컬러 스타일링 가이드](https://seunglabs.com/guide.html): 체형 유형별 옷 고르기, 퍼스널 컬러 자가 점검, 상황별 코디 원칙, FAQ
+- [서비스 소개](https://seunglabs.com/about.html): AURA STYLE의 서비스 소개와 운영 원칙
+- [문의](https://seunglabs.com/contact.html): 서비스 문의와 제휴 제안
+- [개인정보처리방침](https://seunglabs.com/privacy.html)
+- [이용약관](https://seunglabs.com/terms.html)
